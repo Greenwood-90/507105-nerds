@@ -1,7 +1,7 @@
-# Личный проект «Нёрдс»
+﻿# Личный проект «Нёрдс»
 
 * Студент: [Valentin Ivanov](https://up.htmlacademy.ru/htmlcss/19/user/507105).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Рожков](https://up.htmlacademy.ru/htmlcss/19/user/47370).
 
 ---
 
